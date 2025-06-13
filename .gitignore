@@ -4,6 +4,8 @@
 .markdownlint.json
 ~$*
 /personal
+/db-app
+/*-old
 
 
 #-------------------
